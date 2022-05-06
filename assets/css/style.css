@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #498eb8;
+  color: #272829;
 }
 
 a {
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #214363;
   overflow-y: auto;
 }
 
@@ -296,7 +296,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #2a5b87;
+  color: #f4f8ff;
 }
 
 .section-title h2::after {
